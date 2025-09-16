@@ -4,8 +4,9 @@
 [![Paper](https://img.shields.io/badge/Paper-EMNLP%202025%20Findings-blue)](https://arxiv.org/pdf/2406.17764)  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repo presents the code and data for the EMNLP 2025 Findings paper: "[*Mechanistic Understanding and Mitigation of Language Confusion in English-Centric Large Language Models*](https://arxiv.org/pdf/2505.16538)".
-
-<img src="figure1.png" alt="Language Confusion in LLMs" style="width:50%; height:auto;">
+<p align="center">
+  <img src="figure1.png" alt="Language Confusion in LLMs" style="width:50%; height:auto;">
+</p>
 
 
 ## Overview
