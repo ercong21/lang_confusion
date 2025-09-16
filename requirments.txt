@@ -1,0 +1,4 @@
+fasttext
+transformers
+torch
+pandas
