@@ -5,7 +5,8 @@
 
 This repo presents the code and data for the EMNLP 2025 Findings paper: "[*Mechanistic Understanding and Mitigation of Language Confusion in English-Centric Large Language Models*](https://arxiv.org/pdf/2505.16538)".
 
-![Language Confusion in LLMs](figure1.png)
+<img src="figure1.png" alt="Language Confusion in LLMs" style="width:50%; height:auto;">
+
 
 ## Overview
 This project leverages the Language Confusion Benchmark (LCB) to mechanistically analyze language confusion across multiple datasets and languages. The repository includes scripts for generating model outputs, merging and evaluating results, identifying confusion points, and performing mechanistic analysis through neuron identification and intervention.
