@@ -103,12 +103,12 @@ Below is a high-level overview of the workflow. You can click each step to jump 
 ### Step 3: Neuron identification and intervention
 1. Neuron location.
   ```python
-  find_neurons.py --model_id  [model_id] \ 
+  python find_neurons.py --model_id  [model_id] \ 
   --task [task] --source [source] --language [language]
   ```
 2. Neuron intervention
   ```python
-  neuron_editing.py --model_id  [model_id] \ 
+  python neuron_editing.py --model_id  [model_id] \ 
   --task [task] --source [source] --language [language]
   ```
 
